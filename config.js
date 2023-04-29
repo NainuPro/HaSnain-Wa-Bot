@@ -53,19 +53,19 @@ global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '923051038557' //Nomor Bot
-global.nomorown = '923051038557' //Nomor Owner
+global.nomorbot = '923463192291' //Nomor Bot
+global.nomorown = '923463192291' //Nomor Owner
 global.namebot = 'CRAFTY-PANDA-MD-v1' //Nama Bot
-global.nameown = 'MUBASHIR' // Nama Owner
+global.nameown = 'HasNain RaZa' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['923051038557', 'MUBASHIR', true] //Replace your number with your name
+  ['923463192291', 'HasNain RaZa', true] //Replace your number with your name
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = ['923051038557','923462344903'] // Premium user is not here to add it, type .addprem @ user 10
+global.prems = ['923463192291','923463192291'] // Premium user is not here to add it, type .addprem @ user 10
 
 
 global.lolkey = 'apikeymu'
@@ -98,7 +98,7 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 global.wm = '「 CRAFTY-PANDA-ᴍᴅ-ᴠ𝟷 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘MUBASHIE- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘HasNain RaZa- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = 'CRAFTY-PANDA-ᴍᴅ-ᴠ𝟷'
 global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
@@ -130,7 +130,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+923051038557'
+global.phn = '+923463192291'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
